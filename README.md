@@ -1,5 +1,15 @@
 # Eslintrb
 
+[![Build Status](https://img.shields.io/travis/Enriikke/eslintrb.svg)][travis]
+[![Code Climate](https://img.shields.io/codeclimate/github/Enriikke/eslintrb.svg)][codeclimate]
+[![Coverage Status](https://img.shields.io/coveralls/Enriikke/eslintrb.svg)][coveralls]
+[![Inline Docs](http://inch-ci.org/github/Enriikke/eslintrb.svg?style=shields)][inchdocs]
+
+[travis]: https://travis-ci.org/Enriikke/eslintrb
+[codeclimate]: https://codeclimate.com/Enriikke/eslintrb
+[coveralls]: https://coveralls.io/r/Enriikke/eslintrb
+[inchdocs]: http://inch-ci.org/github/Enriikke/eslintrb
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/eslintrb`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 TODO: Delete this and the text above, and describe your gem
@@ -32,7 +42,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/eslintrb/fork )
+1. Fork it ( https://github.com/Enriikke/eslintrb/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
