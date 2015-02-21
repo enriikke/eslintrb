@@ -6,7 +6,7 @@
 [![Inline Docs](http://inch-ci.org/github/Enriikke/eslintrb.svg?style=shields)][inchdocs]
 
 [travis]: https://travis-ci.org/Enriikke/eslintrb
-[codeclimate]: https://codeclimate.com/Enriikke/eslintrb
+[codeclimate]: https://codeclimate.com/github/Enriikke/eslintrb
 [coveralls]: https://coveralls.io/r/Enriikke/eslintrb
 [inchdocs]: http://inch-ci.org/github/Enriikke/eslintrb
 
