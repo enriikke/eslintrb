@@ -27,4 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec", "~> 3.1"
 
   spec.add_dependency "execjs", "~> 2.3"
+  spec.add_dependency "multi_json", "~> 1.10"
 end
