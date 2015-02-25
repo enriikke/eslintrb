@@ -16,3 +16,7 @@ matrix:
   allow_failures:
     - rvm: ruby-head
     - rvm: jruby-head
+addons:
+  code_climate:
+    repo_token:
+      secure: "R1pD8LsZdSUrj1SATePAeBEAOO4A5/U9OStntvvlN91L1+frpCLY5DUwoyEOkS75pWfWXRQF+t9xEPZ1jmuaJvbB2mpWyhjhheRO9BmKLgT94C9rBidq2vK6Gv50WsFSk1c02fPznwR8//VWnRuDobzWWTTusmVxaV4AYRyXtAY="
